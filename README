@@ -20,7 +20,7 @@ JB1tz
 3) repo init -u git://github.com/CM9-D2G/aosp -b cm9
 4) ./cleanup.sh
 5) . build/envsetup.sh
-6) lunch cm_droid2we-userdebug
+6) brunch cm_droid2we-userdebug
 7) make otapackage
 
 Installable zip will be output in out/target/product/droid2we/generic_droid2we_.zip
