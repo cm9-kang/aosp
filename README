@@ -24,3 +24,6 @@ JB1tz
 7) make otapackage
 
 Installable zip will be output in out/target/product/droid2we/generic_droid2we_.zip
+
+If encountering the error "make: *** No rule to make target `.../RomManager.apk', needed by `.../RomManager.apk'. Stop."
+then run get-prebuilts in /vendor/cm
