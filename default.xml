@@ -27,7 +27,7 @@
   <project path="device/motorola/droid2" name="CM9-D2G/android_device_motorola_droid2" remote="github" revision="cm9" />
   <project path="device/motorola/droid2we" name="CM9-D2G/android_device_motorola_droid2we" remote="github" revision="cm9" />
   <project path="device/motorola/hijack" name="CM9-D2G/android_device_moto_hijack" remote="github" revision="ics" />
-  <project path="device/motorola/omap34com" name="CM9-D2G/android_device_motorola_omap34com" remote="github" revision="master" />
+  <project path="device/motorola/omap34com" name="Masterchung7/android_device_motorola_omap34com" remote="github" revision="master" />
   <project path="device/motorola/shadow" name="CM9-D2G/android_device_motorola_shadow" remote="github" revision="cm9" />
   <project path="device/motorola/venus2" name="CM9-D2G/android_device_motorola_venus2" remote="github" revision="master" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
@@ -136,7 +136,7 @@
   <project path="external/skia" name="CyanogenMod/android_external_skia" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" />
-  <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" />
+  <project path="external/sqlite" name="cm9-kang/android_external_sqlite" remote="github" revision="ics" />
   <project path="external/srec" name="CyanogenMod/android_external_srec" />
   <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" />
