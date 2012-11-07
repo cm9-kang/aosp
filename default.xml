@@ -253,7 +253,7 @@
   <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="CM9-D2G/android_system_core" remote="github" revision="ics" />
+  <project path="system/core" name="cm9-kang/android_system_core" remote="github" revision="ics" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CM9-D2G/android_system_netd" remote="github" revision="ics" />
