@@ -27,3 +27,7 @@ Installable zip will be output in out/target/product/droid2we/generic_droid2we_.
 
 If encountering the error "make: *** No rule to make target `.../RomManager.apk', needed by `.../RomManager.apk'. Stop."
 then run get-prebuilts in /vendor/cm
+
+-= Building Individual Apps =-
+1) . build/envsetup.sh
+2) mmm /packages/apps/<app/folder_name>
